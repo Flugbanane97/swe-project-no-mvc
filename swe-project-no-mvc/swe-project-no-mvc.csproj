@@ -5,4 +5,7 @@
     <RootNamespace>swe_project_no_mvc</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
 </Project>
